@@ -24,45 +24,16 @@ Leipzig,Struempellstrasse 39, 04289 Leipzig, Germany
 
 Email: <pirarm@hotmail.com>
 
-<u>Figures presented in the manuscript are recreated and presented here
-as interactive graphs.</u>
+This repository contains code and script used for the analysis in the
+manuscript. The repo does not contain any patient information or patient
+identifiers.
 
-<u>Main Manuscript:</u>
+<u>**Key question:**</u> Is off-pump coronary artery bypass (CABG) safe
+and effective in patients with poor left ventricular (LV) function?
 
-Figure 1.
+<u>**Key findings:**</u> Similar mortality risk between on- and off-pump
+CABG (P=0.7); Incomplete revascularization more common in off-pump CABG
 
-![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
-
-<u>Figure 2 A:</u>
-
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
-
-This figure panel presents the survival (with 95% confidence interval
-bands) for OPCAB and ONCAB patients in the entire cohort. red = OPCAB ,
-blue = ONCAB.
-
-<u>Figure 2B:</u>
-
-![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
-
-This figure panel presents the survival (with 95% confidence interval
-bands) for OPCAB and ONCAB patients in the matched groups, calculated
-using the Kaplan-Meier method. Blue = ONCAB, Red = OPCAB
-
-<u>Supplemental Section</u>
-
-<u>Supplemental Figure 1:</u>
-
-![](README_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
-
-This figure demonstrates the standardized difference for each co-variate
-in the propensity score model. The gray dots represent the entire
-cohort, and the black dots represent the 1:1 matched pairs cohort. After
-matching, standardized difference for each covariate is between -0.1 and
-0.1 demonstrating acceptable model balance. The variable “distance” on
-the graphic represents the distance between propensity scores for
-patients. BMI body mass index; CAD coronary artery disease; COPD Chronic
-obstructive pulmonary disease; ESRD end-stage renal disease; HTN
-arterial hypertension; LMCA left main coronary artery; LVEF left
-ventricular ejection fraction; PAD peripheral artery disease; MI
-myocardial infarction; OHS open heart surgery; PS propensity score.
+<u>**Take-home message:**</u> Off-pump CABG is safe and effective in
+patients with LV dysfunction. Target complete revascularization to
+improve long-term outcomes.
