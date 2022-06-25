@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+(https://img.shields.io/badge/-Published-blue)
+
 ### Off-pump coronary artery bypass grafting is safe and effective in patients with severe left ventricular dysfunction
 
 Authors: Mateo Marin-Cuartas<sup>1</sup>, Salil V. Deo<sup>2</sup>,
